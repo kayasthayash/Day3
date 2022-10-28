@@ -1,0 +1,3 @@
+CREATE DATABASE Customer;
+
+CREATE TABLE Cust_data(name varchar(20),item varchar(20));
